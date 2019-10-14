@@ -1,4 +1,9 @@
 <b><h1>CSS exercise</b></h1>
 
-Assignment four for Bloc. 
-Exercise focused on the usage of media queries.
+CSS assignment four for Bloc.
+
+Understanding why media queries are an essential part of the modern web.
+
+Identifying why mobile-first design is an industry best practice.
+
+Using media queries to build my first responsive site.
